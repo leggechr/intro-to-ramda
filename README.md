@@ -1,13 +1,14 @@
-# A Beginner's Guide to Ramda
+# Introduction to Ramda
 
-> A practical functional library for Javascript programmers
+Ramda is a practical functional library for JavaScript programmers. It enables us to write clean, concise, functional code and it integrates well into React/Redux based applications
 
 See my presentation slides here: 
 
-## Read More
+These are some resources I found very helpful when learning about functional programming and Ramda:
 
-- [Intro to functional functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+- [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - [Ramda homepage](http://ramdajs.com/0.22.1/index.html#)
+- [Ramda documentation](http://ramdajs.com/0.22.1/docs/)
 - [What Ramda function should I use?](https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F)
 
 
