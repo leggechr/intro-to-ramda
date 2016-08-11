@@ -13,7 +13,7 @@ increment();
 increment();
 console.log(a1); // a1 has been changed
 
-// function / pure version of increment
+// functional / pure version of increment
 var a = 0;
 function increment(a2) {
   return a2 + 1;
