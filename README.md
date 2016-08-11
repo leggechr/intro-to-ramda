@@ -11,4 +11,5 @@ These are some resources I found very helpful when learning about functional pro
 - [Ramda documentation](http://ramdajs.com/0.22.1/docs/)
 - [What Ramda function should I use?](https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F)
 
-
+### About ZenHub 
+I work at ZenHub, a collaboration tool that displays natively in GitHub. You can download the extension at [ZenHub.com](http://www.zenhub.com) or request a free student license at support@zenhub.com. 
